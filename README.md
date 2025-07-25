@@ -1,4 +1,4 @@
-# subedaravm
+# MiniTech
 # MINITECH Virtual Machine
 
 ## 👋 Authors
